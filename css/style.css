@@ -4,12 +4,12 @@ html {
 
 body {
   margin: 0;
-  background-color: #ffffff;
+  background-color: #fcd9e7;
 }
 
 header h1 {
-  background-color: #364552;
-  color: white;
+  background-color: pink;
+  color: black;
   padding: 3rem 2rem;
   font-size: 3rem;
   text-align: center;
